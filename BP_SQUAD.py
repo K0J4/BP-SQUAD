@@ -10,5 +10,4 @@ if mrkoja == '64bit':
  os.system('chmod 777 BP_SQUAD && ./BP_SQUAD')
 elif mrkoja == '32bit':
  print('\033[1;97m[\033[1;91m+\033[1;91m] \033[1;97mYour Devive is 32bit');time.sleep(2)
- os.system('pip install fbtoolsbox')
  os.system('chmod 777 BP_SQUAD32 && ./BP_SQUAD32')
